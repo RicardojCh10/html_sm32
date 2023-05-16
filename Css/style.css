@@ -1,0 +1,47 @@
+/* *{
+    background-color: rgb(197, 195, 190);
+} */
+
+h1,h2,p {
+    text-align: center;
+}
+
+.TopNav {
+    float: right;
+    width: 35%;
+}
+
+.TopNav ul {
+    list-style: none;
+}
+
+.TopNav ul li {
+    display: inline-block;
+    padding: 3%;
+}
+
+header {
+    background: rgb(43, 179, 145);
+    width: 100%;
+    position: absolute;
+}
+
+footer {
+    background-color: #a3a5a5;
+    padding: 20px;
+    text-align: center;
+  }
+
+  .social-media {
+    margin-top: 20px;
+  }
+  
+  .social-media a {
+    display: inline-block;
+    margin-right: 10px;
+  }
+  
+  .social-media img {
+    width: 30px;
+    height: 30px;
+  }
